@@ -1,0 +1,143 @@
+@font-face {
+	font-family: 'Open-Sans';
+	src: url("../fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf");
+	font-size: 1em;
+}
+
+
+
+
+
+header {
+	width: 100%;
+	height: 150px;
+	background-color: #5E299A;	
+}
+header .container {
+	position: relative;
+}
+header .header-black {
+	background-color: #000;
+	height: 40px;
+}
+header .header-black li {
+	background-image: url("../img/clubs.png");
+	background-repeat: no-repeat;
+	display: inline-block;
+	margin: 4px;
+}
+header .header-black li.clube-01{
+	background-position: 0px 0px;
+}
+header .header-black li.clube-02{
+	background-position: -48px 0px;
+}
+header .header-black li.clube-03{
+	background-position: -96px 0px;
+}
+header .header-black li.clube-04{
+	background-position: -140px 0px;
+}
+header .header-black li.clube-05{
+	background-position: -190px 0px;
+}
+header .header-black li.clube-06{
+	background-position: -238px 0px;
+}
+header .header-black li.clube-07{
+	background-position: -288px 0px;
+}
+header .header-black li.clube-08{
+	background-position: -336px 0px;
+}
+header .header-black li.clube-09{
+	background-position: -382px 0px;
+}
+header .header-black li.clube-10{
+	background-position: -430px 0px;
+}
+header .header-black li.clube-11{
+	background-position: -478px 0px;
+}
+header .header-black li.clube-12{
+	background-position: -526px 0px;
+}
+header .header-black li.clube-13{
+	background-position: -579px 0px;
+}
+header .header-black li.clube-14{
+	background-position: -628px 0px;
+}
+header .header-black li.clube-15{
+	background-position: -670px 0px;
+}
+header .header-black li.clube-16{
+	background-position: -718px 0px;
+}
+header .header-black li.clube-17{
+	background-position: -766px 0px;
+}
+header .header-black li.clube-18{
+	background-position: -808px 0px;
+}
+header .header-black li.clube-19{
+	background-position: -856px 0px;
+}
+header .header-black li.clube-20{
+	background-position: -906px 0px;
+}
+header .header-black li.clube-21{
+	background-position: -948px 0px;
+}
+header .header-black li.clube-22{
+	background-position: -999px 0px;
+}
+header .header-black li a {
+	width: 32px;
+	height: 32px;
+	display: block;
+}
+header #logotipo {
+	position: absolute;
+	top: -15px;
+}
+#menu{
+	position: absolute;
+	top:40px;
+}
+#menu li{
+	display: inline-block;
+	font-family: "Open-Sans";
+	font-weight: bold;
+}
+#menu li.search input{
+	background-color:#5C2D90 ;
+	color: #fff;
+	border: none;
+	height: 30px;
+	line-height: 30px;
+}
+#menu li.search ::-webkit-input-placeholder {
+	color: #fff ;
+}
+#menu li.search button {
+	border: none;
+	color: #fff;
+	
+
+
+}
+#menu li.search button i {
+	color: rgba(255,255,255, .5);
+}
+
+
+
+#menu li a {
+
+	color: #FFF;
+	font-size: 16px;
+	padding: 10px 25px;
+	text-decoration: none;
+
+}
